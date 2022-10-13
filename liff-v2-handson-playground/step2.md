@@ -9,12 +9,12 @@ exampleフォルダにある `.env` ファイルをクリックして開きま�
 ### 2-2. プログラム実行
 インストールが完了したら、下記コマンドを実行しましょう（クリックしてください）
 
-`npm run serve`{{execute}}
+`npm run serve`{{exec}}
 
 ### 2-3. URLにアクセスする
 サーバーが起動したら下記URLにアクセスしてください。
 
-https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/
+[{{TRAFFIC_HOST1_8080}}]({{TRAFFIC_HOST1_8080}})
 
 ログインボタンが表示されるので、あなたのLINEアカウントでログインしてみましょう。
 ログインするとあなたの名前が表示されると思います。
