@@ -49,7 +49,7 @@ LINEログインをクリックします。
 
 |項目|値|
 |:--|:--|
-|③エンドポイントURL|`https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/`{{copy}} <br>こちらのURLを貼り付ける|
+|③エンドポイントURL|`{{TRAFFIC_HOST1_8080}}`{{copy}} <br>こちらのURLを貼り付ける|
 |④Scope| `chat_message.write` と `profile` にチェックを入れる|
 |⑤ボットリンク機能| `Off` を選択|
 
