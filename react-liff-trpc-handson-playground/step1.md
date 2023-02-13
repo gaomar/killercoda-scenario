@@ -28,6 +28,10 @@ LINEログインをクリックします。
 ［同意する］をクリックします。
 ![s205](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/liff-v2-handson-playground/images/s205.png)
 
+チャネルが作成されたら、チャネルIDをメモしておきます。
+
+![s104](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s104.png)
+
 ### 1-2. LIFFのIDを作成する
 
 作成された `LIFF-v2-Handson` のチャネルをクリックします。

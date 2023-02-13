@@ -1,14 +1,14 @@
 ### 2-1. envファイルを更新する
-exampleフォルダにある `.env` ファイルをクリックして開きます。
-先程step1でメモしたLIFFのIDを反映します。
+Editor①タブをクリックして、exampleフォルダにある `.env.serve` ファイル②をクリックして開き、各設定値③を反映します。
 
-`example/.env`
+|項目|値|
+|:--|:--|
+|LINE_CHANNEL_ID|1-1でメモしたチャネルID|
+|VITE_LIFF_ID|1-2でメモしたLIFF ID|
+|VITE_API_URL|`{{TRAFFIC_HOST1_9000}}`{{copy}}|
 
-![s300](https://raw.githubusercontent.com/gaomar/katacoda-scenarios/master/liff-v2-handson-playground/images/s300.png)
+![s200](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s200.png)
 
-API側のURLを貼り付けます。
-
-`{{TRAFFIC_HOST1_9000}}`{{copy}}
 
 ### 2-2. フロントエンドプログラム実行
 インストールが完了したら、下記コマンドを実行しましょう（クリックしてください）
