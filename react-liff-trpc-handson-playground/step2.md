@@ -3,7 +3,7 @@ Editor①タブをクリックして、exampleフォルダにある `.env.serve`
 
 |項目|値|
 |:--|:--|
-|LINE_CHANNEL_ID|1-1でメモしたチャネルID|
+|LINE_CHANNEL_ID|1-2でメモしたチャネルID|
 |VITE_LIFF_ID|1-2でメモしたLIFF ID|
 |VITE_API_URL|`{{TRAFFIC_HOST1_9000}}`{{copy}}|
 
@@ -16,9 +16,11 @@ Editor①タブをクリックして、exampleフォルダにある `.env.serve`
 `cd example/frontend && yarn dev`{{exec}}
 
 ### 2-3. バックエンドプログラム実行
-続いてバックエンドプログラムを実行します。
+続いてバックエンドプログラムを実行します。ターミナル分割ボタンを押下してから、下記コマンドを実行します。
 
 `cd example/backend && yarn start`{{exec}}
+
+![s201](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s201.png)
 
 
 ### 2-4. URLにアクセスする
@@ -29,4 +31,5 @@ Editor①タブをクリックして、exampleフォルダにある `.env.serve`
 ログインボタンが表示されるので、あなたのLINEアカウントでログインしてみましょう。
 ログインするとあなたの名前が表示されると思います。
 
-![s301](https://raw.githubusercontent.com/gaomar/katacoda-scenarios/master/liff-v2-handson-playground/images/s301.png)
+![s202](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s202.png)
+
