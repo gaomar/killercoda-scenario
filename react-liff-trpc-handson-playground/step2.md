@@ -6,12 +6,22 @@ exampleフォルダにある `.env` ファイルをクリックして開きま�
 
 ![s300](https://raw.githubusercontent.com/gaomar/katacoda-scenarios/master/liff-v2-handson-playground/images/s300.png)
 
-### 2-2. プログラム実行
+API側のURLを貼り付けます。
+
+{{TRAFFIC_HOST1_9000}}
+
+### 2-2. フロントエンドプログラム実行
 インストールが完了したら、下記コマンドを実行しましょう（クリックしてください）
 
-`npm run serve`{{exec}}
+`cd frontend && yarn dev`{{exec}}
 
-### 2-3. URLにアクセスする
+### 2-3. バックエンドプログラム実行
+続いてバックエンドプログラムを実行します。
+
+`cd ../backend && yarn start`{{exec}}
+
+
+### 2-4. URLにアクセスする
 サーバーが起動したら下記URLにアクセスしてください。
 
 {{TRAFFIC_HOST1_3000}}

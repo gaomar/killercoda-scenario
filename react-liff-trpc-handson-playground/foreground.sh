@@ -6,6 +6,8 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
 
 npm install -g yarn
 
+yarn
+
 clear
 
 echo "インストール完了しました！"
