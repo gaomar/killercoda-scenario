@@ -49,7 +49,7 @@ LINEログインをクリックします。
 
 |項目|値|
 |:--|:--|
-|③エンドポイントURL|`{{TRAFFIC_HOST1_8080}}`{{copy}} <br>こちらのURLを貼り付ける|
+|③エンドポイントURL|`{{TRAFFIC_HOST1_3000}}`{{copy}} <br>こちらのURLを貼り付ける|
 |④Scope| `chat_message.write` と `profile` にチェックを入れる|
 |⑤ボットリンク機能| `Off` を選択|
 

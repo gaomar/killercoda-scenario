@@ -1,6 +1,12 @@
 ### 3-1. Messaging APIのチャネルを作成する
 LINE Developerのページから新規チャネル作成をクリックします。
 
+Host1:
+{{TRAFFIC_HOST1_9000}}
+
+Host2:
+{{TRAFFIC_HOST2_9000}}
+
 ![s201](https://raw.githubusercontent.com/gaomar/katacoda-scenarios/master/liff-v2-handson-playground/images/s201.png)
 
 今度は、真ん中の `Messaging API` をクリックします。
