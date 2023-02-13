@@ -8,17 +8,17 @@ exampleフォルダにある `.env` ファイルをクリックして開きま�
 
 API側のURLを貼り付けます。
 
-{{TRAFFIC_HOST1_9000}}
+`{{TRAFFIC_HOST1_9000}}`{{copy}}
 
 ### 2-2. フロントエンドプログラム実行
 インストールが完了したら、下記コマンドを実行しましょう（クリックしてください）
 
-`cd frontend && yarn dev`{{exec}}
+`cd example/frontend && yarn dev`{{exec}}
 
 ### 2-3. バックエンドプログラム実行
 続いてバックエンドプログラムを実行します。
 
-`cd ../backend && yarn start`{{exec}}
+`cd example/backend && yarn start`{{exec}}
 
 
 ### 2-4. URLにアクセスする
