@@ -31,5 +31,7 @@ Editor①タブをクリックして、exampleフォルダにある `.env.serve`
 ログインボタンが表示されるので、あなたのLINEアカウントでログインしてみましょう。
 ログインするとあなたの名前が表示されると思います。
 
+`LINE UserId（tRPC経由）`ボタンをクリックすると、tRPC経由でアクセストークンが渡されて、LINE UserIdを返答してくれます。
+
 ![s202](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s202.png)
 
