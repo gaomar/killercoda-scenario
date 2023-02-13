@@ -9,14 +9,14 @@ LINE DeveloperページへアクセスしてLINEログインしてください�
 ![s201](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/liff-v2-handson-playground/images/s201.png)
 
 LINEログインをクリックします。
-![s202](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/liff-v2-handson-playground/images/s202.png)
+![s202](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s100.png)
 
 各種項目を埋めていきます。
 
 |項目|値|
 |:--|:--|
-|①チャネル名|LIFF-v2-Handson|
-|②チャネル説明|LIFF-v2-Handson|
+|①チャネル名|`LIFF-v2-Handson`{{copy}}|
+|②チャネル説明|`LIFF-v2-Handson`{{copy}}|
 |③アプリタイプ|チェックを2つ入れる|
 |④メールアドレス|ご自身のメールアドレスを入力|
 
@@ -40,7 +40,7 @@ LINEログインをクリックします。
 
 |項目|値|
 |:--|:--|
-|①LIFFアプリ名|LIFF-v2-Handson|
+|①LIFFアプリ名|`LIFF-v2-Handson`{{copy}}|
 |②サイズ|Tall|
 
 ![s208](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/liff-v2-handson-playground/images/s208.png)
@@ -53,12 +53,12 @@ LINEログインをクリックします。
 |④Scope| `chat_message.write` と `profile` にチェックを入れる|
 |⑤ボットリンク機能| `Off` を選択|
 
-![s209](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/liff-v2-handson-playground/images/s209.png)
+![s101](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s101.png)
 
 ［作成］ボタンをクリックします。
 
-![s210](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/liff-v2-handson-playground/images/s210.png)
+![s102](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s102.png)
 
-LIFFのIDが生成されるので、 `https://liff.line.me/xxxxxxxxxx-xxxxxxxx` 赤枠の値をメモしておきます。
+LIFFのIDが生成されるので、メモしておきます。
 
-![s211](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/liff-v2-handson-playground/images/s211.png)
+![s103](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/react-liff-trpc-handson-playground/images/s103.png)
