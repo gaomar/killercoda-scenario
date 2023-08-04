@@ -1,0 +1,25 @@
+{
+    "title": "BetterChatGPTハンズオン",
+    "description": "BetterChatGPTハンズオン",
+    "details": {
+      "steps": [
+        {
+          "title": "Step 1 - 起動しよう",
+          "text": "step1.md"
+        }
+      ],
+      "intro": {
+          "text": "intro.md",
+          "background": "background.sh",
+          "foreground": "foreground.sh",
+          "credits": ""
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "files": [],
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
