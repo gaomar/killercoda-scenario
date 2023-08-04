@@ -1,4 +1,4 @@
-git clone https://github.com/ztjhz/BetterChatGPT.git example
+git clone https://github.com/gaomar/BetterChatGPT.git example
 
 cd example
 
