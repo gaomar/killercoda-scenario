@@ -14,6 +14,6 @@
 
 POSTが反応するか確認する
 
-`curl -X POST {{TRAFFIC_HOST1_9000}}`{{exec}}
+`curl -X POST {{TRAFFIC_HOST1_9000}}/api/test`{{exec}}
 
 `{{TRAFFIC_HOST1_9000}}`{{copy}}
