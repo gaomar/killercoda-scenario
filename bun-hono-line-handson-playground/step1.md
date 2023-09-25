@@ -16,6 +16,3 @@ POSTが反応するか確認する
 
 `curl -X POST {{TRAFFIC_HOST1_9000}}/api/test`{{exec}}
 
-LINEのWebhookに反映する。
-
-`{{TRAFFIC_HOST1_9000}}/api/line/bot`{{copy}}
