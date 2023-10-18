@@ -20,4 +20,4 @@
 
 反応が返ってきたら一度プログラムを停止しておきます。
 
-{{exec interrupt}}
+`^C`{{exec interrupt}}
