@@ -8,13 +8,13 @@
 
 `bun install`{{exec}}
 
+［＋］ボタンで新しい「Tab2」を追加してから、POSTが反応するか確認する
+
 プログラムを開始する。
 
 `bun dev`{{exec}}
 
-［＋］ボタンで新しい「Tab2」を追加してから、POSTが反応するか確認する
-
-`curl -X POST {{TRAFFIC_HOST1_9000}}/api/test`{{execute T2}}
+`curl -X POST {{TRAFFIC_HOST1_9000}}/api/test`{{exec}}
 
 ![s100](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/bun-hono-line-handson-playground/images/s100.png)
 
