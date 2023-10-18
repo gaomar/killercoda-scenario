@@ -8,11 +8,11 @@
 
 `bun install`{{exec}}
 
-［＋］ボタンで新しい「Tab2」を追加してから、POSTが反応するか確認する
-
 プログラムを開始する。
 
 `bun dev`{{exec}}
+
+［＋］ボタンで新しい「Tab2」を追加してから、POSTが反応するか確認する
 
 `curl -X POST {{TRAFFIC_HOST1_9000}}/api/test`{{exec}}
 
@@ -20,4 +20,4 @@
 
 反応が返ってきたら一度プログラムを停止しておきます。
 
-`^C`{{exec interrupt}}
+`whoami`{{exec interrupt}}
