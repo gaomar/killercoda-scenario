@@ -17,3 +17,7 @@
 `curl -X POST {{TRAFFIC_HOST1_9000}}/api/test`{{exec}}
 
 ![s100](https://raw.githubusercontent.com/gaomar/killercoda-scenario/master/bun-hono-line-handson-playground/images/s100.png)
+
+反応が返ってきたら一度プログラムを停止しておきます。
+
+`hoge`{{exec interrupt}}

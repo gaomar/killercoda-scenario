@@ -41,6 +41,10 @@
 
 ![s309](https://raw.githubusercontent.com/gaomar/katacoda-scenarios/master/dialoflow-linebot-playground/images/s309.png)
 
+.env.localファイルに `CHANNEL_SECRET` として設定します。
+
+`echo CHANNEL_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx > .env.local`{{copy}}
+
 `Channel Access Token` は 「Messaging API設定」 の一番下の項目にあります。
 
 ![s310](https://raw.githubusercontent.com/gaomar/katacoda-scenarios/master/dialoflow-linebot-playground/images/s310.png)
@@ -48,6 +52,10 @@
 ［再発行］ボタンを押して、アクセストークンを再発行します。
 
 ![s311](https://raw.githubusercontent.com/gaomar/katacoda-scenarios/master/dialoflow-linebot-playground/images/s311.png)
+
+.env.localファイルに `ACCESS_TOKEN` として設定します。
+
+`echo ACCESS_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx >> .env.local`{{copy}}
 
 Webhook URLを適応します。［編集］を押して下記URL①を適応し、Webhookの利用をON②にします。
 
